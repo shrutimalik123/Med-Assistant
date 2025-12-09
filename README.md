@@ -1,2 +1,2 @@
 # Med-Assistant
-Med Assistant Chatbat
+Med Assistant Chatbot

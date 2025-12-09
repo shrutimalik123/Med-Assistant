@@ -1,6 +1,8 @@
 # Med-Assistant
 Med Assistant Chatbot
 
+In progress: Not yet made
+
 Medical Information Assistant Chatbot
 1. 🌟 Overview
 Welcome to the Medical Information Assistant Chatbot! This small, focused AI tool is designed to provide clear, concise, and general educational information about common health topics. Built using the Gemini model through AI Studio, its primary function is to empower users with basic knowledge while strictly adhering to safety protocols.
